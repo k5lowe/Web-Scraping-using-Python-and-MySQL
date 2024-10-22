@@ -55,7 +55,7 @@ url = "...80.5448576&radius={radius}"
 
 ## Attributions & Remarks ##
 
-The entirity of this project rested on the kind help of the following websites. As always, ChatGPT proved an immense help and guidance where much time and effort was saved
+The entirity of this project rested on the kind help of the following websites. As always, ChatGPT proved an immense help and guidance where much time and effort was saved.
 
 - https://chatgpt.com/
 - https://www.w3schools.com/
